@@ -7,8 +7,8 @@ on:
 env:
   name: "Firefox Setup 84.0.2"
   comment: "Firefox Setup 84.0.2 by torrent-webseed-creator"
-  url: "https://cdn.stubdownloader.services.mozilla.com/builds/firefox-latest-ssl/en-US/win64/d64376e289766ce61f2d99579fb331af3b53619bcbff418513c944eb3aab6fa5/Firefox%20Setup%2084.0.2.exe"
-  file_name: "Firefox Setup 84.0.2.exe"
+  url: "http://s12.bitdl.ir/Drake%20Hollow%20[FitGirl%20Repack]/Drake%20Hollow%20[FitGirl%20Repack].bitdownload.ir.part2.rar"
+  file_name: "Drake Hollow [FitGirl Repack].bitdownload.ir.part2.rar"
   piece_size: 0 # 0 for automatic calculation, or use the recommended piece size on the README.md file
       
 jobs:
