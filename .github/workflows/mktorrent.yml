@@ -5,11 +5,11 @@ on:
       - ".github/workflows/mktorrent.yml"
       
 env:
-  name: "Firefox Setup 84.0.2"
+  name: "DQ11 part 6"
   comment: "Firefox Setup 84.0.2 by torrent-webseed-creator"
-  url: "https://cdn.stubdownloader.services.mozilla.com/builds/firefox-latest-ssl/en-US/win64/d64376e289766ce61f2d99579fb331af3b53619bcbff418513c944eb3aab6fa5/Firefox%20Setup%2084.0.2.exe"
-  file_name: "Firefox Setup 84.0.2.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  url: "http://s12.bitdl.ir/Dragon%20Quest%20XI%20Echoes%20of%20an%20Elusive%20Age%20%E2%80%93%20Digital%20Edition%20of%20Light[FitGirl%20Repack]/Dragon%20Quest%20XI%20[FitGirl%20Repack].bitdownload.ir.part06.rar"
+  file_name: "Dragon%20Quest%20XI%20[FitGirl%20Repack].bitdownload.ir.part06.rar"
+  piece_size: 19
       
 jobs:
   create:
